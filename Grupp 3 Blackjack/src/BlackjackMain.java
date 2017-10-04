@@ -6,6 +6,7 @@ public class BlackjackMain {
 	public static void main(String[] args) {
 
 		// Must have imports
+		System.out.println("Detta är ett test för github");
 		Scanner scan = new Scanner(System.in);
 		Random rand = new Random();
 		BlackjackMain blackjack = new BlackjackMain();
